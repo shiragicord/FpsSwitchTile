@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FpsSwitchTile</string>
+    <string name="refresh_rate">RefreshRate</string>
+</resources>
